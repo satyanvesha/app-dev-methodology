@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="attest" label="Attest" language="en" table="x_cdltd_attest_cmdb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>attest</element>
+            <help/>
+            <hint/>
+            <label>Attest</label>
+            <language>en</language>
+            <name>x_cdltd_attest_cmdb</name>
+            <plural>Attests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-24 17:05:56</sys_created_on>
+            <sys_id>bedad8ea00e910107f446e5c306738fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Attest</sys_name>
+            <sys_package display_value="Attestation Application" source="x_cdltd_attest">1369d8aa00e910107f446e5c306738ed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Attestation Application">1369d8aa00e910107f446e5c306738ed</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_attest_cmdb_attest_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:05:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

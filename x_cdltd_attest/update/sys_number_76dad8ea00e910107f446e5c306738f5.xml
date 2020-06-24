@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_cdltd_attest_cmdb">x_cdltd_attest_cmdb</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CMD</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-24 17:05:56</sys_created_on>
+        <sys_id>76dad8ea00e910107f446e5c306738f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CMD</sys_name>
+        <sys_package display_value="Attestation Application" source="x_cdltd_attest">1369d8aa00e910107f446e5c306738ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Attestation Application">1369d8aa00e910107f446e5c306738ed</sys_scope>
+        <sys_update_name>sys_number_76dad8ea00e910107f446e5c306738f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-24 17:05:56</sys_updated_on>
+    </sys_number>
+</record_update>
