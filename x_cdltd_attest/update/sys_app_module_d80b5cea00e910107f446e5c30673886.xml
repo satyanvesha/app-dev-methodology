@@ -4,27 +4,29 @@
         <application display_value="Attestation Application">940b5cea00e910107f446e5c30673883</application>
         <assessment/>
         <device_type/>
-        <filter/>
+        <filter table="x_cdltd_attest_cmdb">sys_class_name=cmdb_ci_business_app^EQ<item display_value="Business Application" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="cmdb_ci_business_app"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
-        <link_type>SEPARATOR</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
         <mobile_title>cmdb</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name/>
+        <name>x_cdltd_attest_cmdb</name>
         <order>1</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>admin,itil,knowledge_admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-24 17:06:35</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d80b5cea00e910107f446e5c30673886</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>cmdb</sys_name>
         <sys_overrides/>
         <sys_package display_value="Attestation Application" source="x_cdltd_attest">1369d8aa00e910107f446e5c306738ed</sys_package>
@@ -32,7 +34,7 @@
         <sys_scope display_value="Attestation Application">1369d8aa00e910107f446e5c306738ed</sys_scope>
         <sys_update_name>sys_app_module_d80b5cea00e910107f446e5c30673886</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-24 17:06:35</sys_updated_on>
+        <sys_updated_on>2020-06-24 18:41:39</sys_updated_on>
         <timeline_page/>
         <title>cmdb</title>
         <uncancelable>false</uncancelable>
